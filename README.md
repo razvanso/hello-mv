@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+<a id="readme-top"></a>
 
 <!--
 !!! IMPORTANT !!!
@@ -41,7 +41,7 @@ For more information on the importance of a professional README for your reposit
 
 # 📗 Table of Contents
 
-- [� Table of Contents](#-table-of-contents)
+- [📗 Table of Contents](#-table-of-contents)
 - [📖 \[your\_project\_name\] ](#-your_project_name-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
@@ -60,15 +60,15 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [your_project_name] <a id="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
 **[your_project__name]** is a...
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a id="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a id="tech-stack"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
@@ -95,7 +95,7 @@ For more information on the importance of a professional README for your reposit
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
+### Key Features <a id="key-features"></a>
 
 > Describe between 1-3 key features of the application.
 
@@ -107,7 +107,7 @@ For more information on the importance of a professional README for your reposit
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo <a id="live-demo"></a>
 
 > Add a link to your deployed project.
 
@@ -117,7 +117,7 @@ For more information on the importance of a professional README for your reposit
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+## 💻 Getting Started <a id="getting-started"></a>
 
 > Describe how a new developer could make use of your project.
 
@@ -201,7 +201,7 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a id="authors"></a>
 
 > Mention all of the collaborators of this project.
 
@@ -221,7 +221,7 @@ Example:
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
+## 🔭 Future Features <a id="future-features"></a>
 
 > Describe 1 - 3 features you will add to the project.
 
@@ -233,7 +233,7 @@ Example:
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributing <a id="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 

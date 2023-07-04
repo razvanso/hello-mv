@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "A learning project to experiment using linters and writing documentation",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "hint": "^7.1.10"
+  }
 }

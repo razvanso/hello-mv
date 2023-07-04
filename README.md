@@ -29,11 +29,10 @@ For more information on the importance of a professional README for your reposit
 -->
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="Rio_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello, says Rio!</b></h3>
 
 </div>
 
@@ -42,74 +41,48 @@ For more information on the importance of a professional README for your reposit
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[your\_project\_name\] ](#-your_project_name-)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
-    - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
-  - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
+- [📖 \[Hello, says Rio!\]](#-hello-says-rio)
+  - [🛠 Built With](#-built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#-live-demo)
+  - [💻 Getting Started](#-getting-started)
     - [Setup](#setup)
-    - [Install](#install)
-    - [Usage](#usage)
-    - [Run tests](#run-tests)
     - [Deployment](#deployment)
-  - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
+  - [👥 Authors](#-authors)
+  - [🔭 Future Features](#-future-features)
+  - [🤝 Contributing](#-contributing)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a id="about-project"></a>
+# 📖 [Hello, says Rio!]<a id="-hello-says-rio"></a>
 
-> Describe your project in 1 or 2 sentences.
+**[Hello, says Rio!]** is  a dummy project to learn how to use linters and document a project, yet quite useful!
 
-**[your_project__name]** is a...
+## 🛠 Built With<a id="-built-with"></a>
 
-## 🛠 Built With <a id="built-with"></a>
-
-### Tech Stack <a id="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
+### Tech Stack<a id="tech-stack"></a>
 
 <details>
-  <summary>Client</summary>
+  <summary>Front-end only</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">HTML 5</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">CSS 3</a></li>
   </ul>
 </details>
 
 <!-- Features -->
 
-### Key Features <a id="key-features"></a>
+### Key Features<a id="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Linters]**
+- **[GitHub Actions]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a id="live-demo"></a>
-
-> Add a link to your deployed project.
+## 🚀 Live Demo<a id="-live-demo"></a>
 
 - [Live Demo Link](https://google.com)
 
@@ -117,113 +90,44 @@ For more information on the importance of a professional README for your reposit
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a id="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
+## 💻 Getting Started<a id="-getting-started"></a>
 
 To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  cd hello-mv
+  git clone git@github.com:razvanso/hello-mv.git
 ```
---->
-
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-Example:
-
 ```sh
-
+  # todo
 ```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a id="authors"></a>
+## 👥 Authors<a id="-authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Rio**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@razvanso](https://github.com/razvanso)
+- Twitter: [@RioRazvan](https://twitter.com/RioRazvan)
+- LinkedIn: [Razvan-Rio](https://www.linkedin.com/in/razvan-rio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a id="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
+## 🔭 Future Features<a id="-future-features"></a>
 
 - [ ] **[new_feature_1]**
 - [ ] **[new_feature_2]**
@@ -233,8 +137,8 @@ Example:
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a id="contributing"></a>
+## 🤝 Contributing<a id="-contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../
+Feel free to check the [issues page](https://github.com/razvanso/hello-mv/issues)

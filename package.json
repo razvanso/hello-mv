@@ -1,0 +1,11 @@
+{
+  "name": "hello-mv",
+  "version": "1.0.0",
+  "description": "A learning project to experiment using linters and writing documentation",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
